@@ -18,7 +18,7 @@ Day 2- 17/10/25
 - Added README.md file, created dev branch, and pushed empty console project
 - Plan to create feature branches for each topic and add topic-specific code
 - Will practice loops and conditional statements
-Day - 23-10-2025
+Day 3- 23-10-2025
 - worked on task provided
 - had review of all topics learnt so far till array
   
