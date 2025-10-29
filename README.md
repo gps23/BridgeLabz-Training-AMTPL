@@ -21,5 +21,9 @@ Day 2- 17/10/25
 Day 3- 23-10-2025
 - worked on task provided
 - had review of all topics learnt so far till array
+Day 4- 24-10-2025
+- learnt basic about access specifiers
+- static vs non static
+
   
 
