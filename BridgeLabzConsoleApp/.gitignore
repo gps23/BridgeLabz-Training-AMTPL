@@ -1,0 +1,41 @@
+# Visual Studio / C# Console App .gitignore
+
+# Build folders
+bin/
+obj/
+Debug/
+Release/
+
+# User-specific files
+*.user
+*.suo
+
+# Cache and logs
+*.cache
+*.log
+*.tmp
+*.pdb
+*.bak
+
+# Visual Studio folders
+.vs/
+.vscode/
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Test results
+TestResult*/
+*.trx
+
+# Publish files
+publish/
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Database
+*.mdb
+*.dbmdl
