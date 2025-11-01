@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\praja\\source\\repos\\EmployeeWageComputation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF97C7F4-643D-4BFF-9DCF-29EB4AD189DE}|EmployeeWageComputation\\EmployeeWageComputation.csproj|c:\\users\\praja\\source\\repos\\employeewagecomputation\\employeewagecomputation\\uc10_multiplecompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF97C7F4-643D-4BFF-9DCF-29EB4AD189DE}|EmployeeWageComputation\\EmployeeWageComputation.csproj|solutionrelative:employeewagecomputation\\uc10_multiplecompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF97C7F4-643D-4BFF-9DCF-29EB4AD189DE}|EmployeeWageComputation\\EmployeeWageComputation.csproj|c:\\users\\praja\\source\\repos\\employeewagecomputation\\employeewagecomputation\\uc9_savetotalwage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF97C7F4-643D-4BFF-9DCF-29EB4AD189DE}|EmployeeWageComputation\\EmployeeWageComputation.csproj|solutionrelative:employeewagecomputation\\uc9_savetotalwage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF97C7F4-643D-4BFF-9DCF-29EB4AD189DE}|EmployeeWageComputation\\EmployeeWageComputation.csproj|c:\\users\\praja\\source\\repos\\employeewagecomputation\\employeewagecomputation\\uc5_wagesformonth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF97C7F4-643D-4BFF-9DCF-29EB4AD189DE}|EmployeeWageComputation\\EmployeeWageComputation.csproj|solutionrelative:employeewagecomputation\\uc5_wagesformonth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF97C7F4-643D-4BFF-9DCF-29EB4AD189DE}|EmployeeWageComputation\\EmployeeWageComputation.csproj|c:\\users\\praja\\source\\repos\\employeewagecomputation\\employeewagecomputation\\uc6_wageswithcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF97C7F4-643D-4BFF-9DCF-29EB4AD189DE}|EmployeeWageComputation\\EmployeeWageComputation.csproj|solutionrelative:employeewagecomputation\\uc6_wageswithcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF97C7F4-643D-4BFF-9DCF-29EB4AD189DE}|EmployeeWageComputation\\EmployeeWageComputation.csproj|c:\\users\\praja\\source\\repos\\employeewagecomputation\\employeewagecomputation\\uc7_classmethodrefactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF97C7F4-643D-4BFF-9DCF-29EB4AD189DE}|EmployeeWageComputation\\EmployeeWageComputation.csproj|solutionrelative:employeewagecomputation\\uc7_classmethodrefactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF97C7F4-643D-4BFF-9DCF-29EB4AD189DE}|EmployeeWageComputation\\EmployeeWageComputation.csproj|c:\\users\\praja\\source\\repos\\employeewagecomputation\\employeewagecomputation\\uc8_companyemployeewage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF97C7F4-643D-4BFF-9DCF-29EB4AD189DE}|EmployeeWageComputation\\EmployeeWageComputation.csproj|solutionrelative:employeewagecomputation\\uc8_companyemployeewage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF97C7F4-643D-4BFF-9DCF-29EB4AD189DE}|EmployeeWageComputation\\EmployeeWageComputation.csproj|c:\\users\\praja\\source\\repos\\employeewagecomputation\\employeewagecomputation\\uc4_switchcasewage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF97C7F4-643D-4BFF-9DCF-29EB4AD189DE}|EmployeeWageComputation\\EmployeeWageComputation.csproj|solutionrelative:employeewagecomputation\\uc4_switchcasewage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF97C7F4-643D-4BFF-9DCF-29EB4AD189DE}|EmployeeWageComputation\\EmployeeWageComputation.csproj|c:\\users\\praja\\source\\repos\\employeewagecomputation\\employeewagecomputation\\uc3_parttimewage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF97C7F4-643D-4BFF-9DCF-29EB4AD189DE}|EmployeeWageComputation\\EmployeeWageComputation.csproj|solutionrelative:employeewagecomputation\\uc3_parttimewage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF97C7F4-643D-4BFF-9DCF-29EB4AD189DE}|EmployeeWageComputation\\EmployeeWageComputation.csproj|c:\\users\\praja\\source\\repos\\employeewagecomputation\\employeewagecomputation\\uc2_dailywage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF97C7F4-643D-4BFF-9DCF-29EB4AD189DE}|EmployeeWageComputation\\EmployeeWageComputation.csproj|solutionrelative:employeewagecomputation\\uc2_dailywage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF97C7F4-643D-4BFF-9DCF-29EB4AD189DE}|EmployeeWageComputation\\EmployeeWageComputation.csproj|c:\\users\\praja\\source\\repos\\employeewagecomputation\\employeewagecomputation\\uc1_employeeattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF97C7F4-643D-4BFF-9DCF-29EB4AD189DE}|EmployeeWageComputation\\EmployeeWageComputation.csproj|solutionrelative:employeewagecomputation\\uc1_employeeattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF97C7F4-643D-4BFF-9DCF-29EB4AD189DE}|EmployeeWageComputation\\EmployeeWageComputation.csproj|c:\\users\\praja\\source\\repos\\employeewagecomputation\\employeewagecomputation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF97C7F4-643D-4BFF-9DCF-29EB4AD189DE}|EmployeeWageComputation\\EmployeeWageComputation.csproj|solutionrelative:employeewagecomputation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UC10_MultipleCompany.cs",
+              "DocumentMoniker": "C:\\Users\\praja\\source\\repos\\EmployeeWageComputation\\EmployeeWageComputation\\UC10_MultipleCompany.cs",
+              "RelativeDocumentMoniker": "EmployeeWageComputation\\UC10_MultipleCompany.cs",
+              "ToolTip": "C:\\Users\\praja\\source\\repos\\EmployeeWageComputation\\EmployeeWageComputation\\UC10_MultipleCompany.cs",
+              "RelativeToolTip": "EmployeeWageComputation\\UC10_MultipleCompany.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:43:59.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UC9_SaveTotalWage.cs",
+              "DocumentMoniker": "C:\\Users\\praja\\source\\repos\\EmployeeWageComputation\\EmployeeWageComputation\\UC9_SaveTotalWage.cs",
+              "RelativeDocumentMoniker": "EmployeeWageComputation\\UC9_SaveTotalWage.cs",
+              "ToolTip": "C:\\Users\\praja\\source\\repos\\EmployeeWageComputation\\EmployeeWageComputation\\UC9_SaveTotalWage.cs",
+              "RelativeToolTip": "EmployeeWageComputation\\UC9_SaveTotalWage.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:41:28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UC6_WagesWithCondition.cs",
+              "DocumentMoniker": "C:\\Users\\praja\\source\\repos\\EmployeeWageComputation\\EmployeeWageComputation\\UC6_WagesWithCondition.cs",
+              "RelativeDocumentMoniker": "EmployeeWageComputation\\UC6_WagesWithCondition.cs",
+              "ToolTip": "C:\\Users\\praja\\source\\repos\\EmployeeWageComputation\\EmployeeWageComputation\\UC6_WagesWithCondition.cs",
+              "RelativeToolTip": "EmployeeWageComputation\\UC6_WagesWithCondition.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:36:33.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UC5_WagesForMonth.cs",
+              "DocumentMoniker": "C:\\Users\\praja\\source\\repos\\EmployeeWageComputation\\EmployeeWageComputation\\UC5_WagesForMonth.cs",
+              "RelativeDocumentMoniker": "EmployeeWageComputation\\UC5_WagesForMonth.cs",
+              "ToolTip": "C:\\Users\\praja\\source\\repos\\EmployeeWageComputation\\EmployeeWageComputation\\UC5_WagesForMonth.cs",
+              "RelativeToolTip": "EmployeeWageComputation\\UC5_WagesForMonth.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:36:15.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UC7_ClassMethodRefactor.cs",
+              "DocumentMoniker": "C:\\Users\\praja\\source\\repos\\EmployeeWageComputation\\EmployeeWageComputation\\UC7_ClassMethodRefactor.cs",
+              "RelativeDocumentMoniker": "EmployeeWageComputation\\UC7_ClassMethodRefactor.cs",
+              "ToolTip": "C:\\Users\\praja\\source\\repos\\EmployeeWageComputation\\EmployeeWageComputation\\UC7_ClassMethodRefactor.cs",
+              "RelativeToolTip": "EmployeeWageComputation\\UC7_ClassMethodRefactor.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:36:49.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UC8_CompanyEmployeeWage.cs",
+              "DocumentMoniker": "C:\\Users\\praja\\source\\repos\\EmployeeWageComputation\\EmployeeWageComputation\\UC8_CompanyEmployeeWage.cs",
+              "RelativeDocumentMoniker": "EmployeeWageComputation\\UC8_CompanyEmployeeWage.cs",
+              "ToolTip": "C:\\Users\\praja\\source\\repos\\EmployeeWageComputation\\EmployeeWageComputation\\UC8_CompanyEmployeeWage.cs",
+              "RelativeToolTip": "EmployeeWageComputation\\UC8_CompanyEmployeeWage.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAA9wEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:37:02.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UC4_SwitchCaseWage.cs",
+              "DocumentMoniker": "C:\\Users\\praja\\source\\repos\\EmployeeWageComputation\\EmployeeWageComputation\\UC4_SwitchCaseWage.cs",
+              "RelativeDocumentMoniker": "EmployeeWageComputation\\UC4_SwitchCaseWage.cs",
+              "ToolTip": "C:\\Users\\praja\\source\\repos\\EmployeeWageComputation\\EmployeeWageComputation\\UC4_SwitchCaseWage.cs",
+              "RelativeToolTip": "EmployeeWageComputation\\UC4_SwitchCaseWage.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:34:45.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UC3_PartTimeWage.cs",
+              "DocumentMoniker": "C:\\Users\\praja\\source\\repos\\EmployeeWageComputation\\EmployeeWageComputation\\UC3_PartTimeWage.cs",
+              "RelativeDocumentMoniker": "EmployeeWageComputation\\UC3_PartTimeWage.cs",
+              "ToolTip": "C:\\Users\\praja\\source\\repos\\EmployeeWageComputation\\EmployeeWageComputation\\UC3_PartTimeWage.cs",
+              "RelativeToolTip": "EmployeeWageComputation\\UC3_PartTimeWage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:33:26.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UC2_DailyWage.cs",
+              "DocumentMoniker": "C:\\Users\\praja\\source\\repos\\EmployeeWageComputation\\EmployeeWageComputation\\UC2_DailyWage.cs",
+              "RelativeDocumentMoniker": "EmployeeWageComputation\\UC2_DailyWage.cs",
+              "ToolTip": "C:\\Users\\praja\\source\\repos\\EmployeeWageComputation\\EmployeeWageComputation\\UC2_DailyWage.cs",
+              "RelativeToolTip": "EmployeeWageComputation\\UC2_DailyWage.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowB4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:28:14.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UC1_EmployeeAttendance.cs",
+              "DocumentMoniker": "C:\\Users\\praja\\source\\repos\\EmployeeWageComputation\\EmployeeWageComputation\\UC1_EmployeeAttendance.cs",
+              "RelativeDocumentMoniker": "EmployeeWageComputation\\UC1_EmployeeAttendance.cs",
+              "ToolTip": "C:\\Users\\praja\\source\\repos\\EmployeeWageComputation\\EmployeeWageComputation\\UC1_EmployeeAttendance.cs",
+              "RelativeToolTip": "EmployeeWageComputation\\UC1_EmployeeAttendance.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:18:10.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\praja\\source\\repos\\EmployeeWageComputation\\EmployeeWageComputation\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeWageComputation\\Program.cs",
+              "ToolTip": "C:\\Users\\praja\\source\\repos\\EmployeeWageComputation\\EmployeeWageComputation\\Program.cs",
+              "RelativeToolTip": "EmployeeWageComputation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:10:32.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
